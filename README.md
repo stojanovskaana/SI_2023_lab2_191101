@@ -2,6 +2,7 @@
 Ана Стојановска број на индекс 191101
 
 2.
-![image](https://github.com/stojanovskaana/SI_2023_lab2_191101/assets/93766106/1d072c27-7bab-4df5-b01f-9a9f873ba6c3)
+![Untitled Diagram](https://github.com/stojanovskaana/SI_2023_lab2_191101/assets/93766106/988aaa93-13c4-44ac-8801-89a61249eefe)
+
 
 3.  Цикломатската комплексност на кодот е 4 биидејќи има 4 if структури во кои кодот мора сигурно да влезе и да го провери условот.
